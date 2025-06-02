@@ -1,5 +1,5 @@
 {
-  "name": "alinanicoletaroman/ai/ai-helper-bundle",
+  "name": "alinanicoletaroman/ai",
   "type": "pimcore-bundle",
   "license": "GPL-3.0-or-later",
   "keywords": [
@@ -28,7 +28,7 @@
   "extra": {
     "pimcore": {
       "bundles": [
-        "alinanicoletaroman\\ai\\AIHelperBundle\\AIHelperBundle"
+        "alinanicoletaroman\\AIHelperBundle\\AIHelperBundle"
       ]
     }
   }
